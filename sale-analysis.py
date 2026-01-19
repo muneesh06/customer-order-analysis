@@ -16,6 +16,7 @@ def load_data(file_path):
         print("Error loading file:", e)
         return None
 
+
 # ----------------------------
 # Total Revenue
 # ----------------------------
