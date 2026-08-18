@@ -26,7 +26,3 @@ The first script needs nothing installed. For the pandas one:
 ```bash
 pip install pandas && python3 sale-analysis.py
 ```
-
-## Note
-
-This repo also holds a few early scratch files (`hello.py`, `git_2.py`, `git_3.py`, `git_4.py`, `Leetcode3.py`) from when I was first learning git — the two scripts above are the actual project.
